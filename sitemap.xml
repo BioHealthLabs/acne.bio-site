@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://acne.bio/</loc>
+    <lastmod>2025-11-19</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://acne.bio/acne-and-diet.html</loc>
+    <lastmod>2025-11-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://acne.bio/hormonal-acne.html</loc>
+    <lastmod>2025-11-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://acne.bio/acne-scars.html</loc>
+    <lastmod>2025-11-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://acne.bio/about.html</loc>
+    <lastmod>2025-11-19</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://acne.bio/privacy.html</loc>
+    <lastmod>2025-11-19</lastmod>
+    <priority>0.2</priority>
+  </url>
+</urlset>
